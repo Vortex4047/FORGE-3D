@@ -225,9 +225,3 @@ npm run lint     # Run ESLint
 ## 📄 License
 
 MIT — free to use, modify, and distribute.
-
----
-
-<div align="center">
-  Built with ❤️ by <a href="https://github.com/Vortex4047">Vortex4047</a>
-</div>
