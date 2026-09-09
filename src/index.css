@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  font-family:
+    "Inter",
+    -apple-system,
+    sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  font-size: 13px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button,
+input,
+select {
+  font: inherit;
+  cursor: pointer;
+}
+
+input {
+  cursor: text;
+}

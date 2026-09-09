@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+trimesh
+ollama
+manifold3d
+# the others (bpy, cadquery, open3d) might have complex binary requirements, 
+# so we'll start with the bare minimum to get the server running and test generation, 
+# then add them in next steps if needed.
